@@ -6,6 +6,12 @@ Start a Julia REPL session with this repo as the active project.
 julia --project
 ```
 
+Download dependencies.
+
+```julia
+import Pkg; Pkg.instantiate()
+```
+
 Request some ephemerides from a Docker container running on AWS ECS.
 
 ```julia
