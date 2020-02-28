@@ -1,4 +1,4 @@
-# Julia SQS Ephemrides Demo
+# Julia SQS Ephemerides Demo
 
 Start a Julia REPL session with this repo as the active project.
 
